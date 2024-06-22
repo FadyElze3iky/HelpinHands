@@ -24,3 +24,4 @@ In today's fast-paced world, road safety is a critical concern. The "Helping Han
 ---
 
 By implementing Helping Hands, we aim to reduce the frequency of accidents and injuries on the roads and provide timely assistance to those in need. Join us in creating a safer and more resilient transportation ecosystem.
+
