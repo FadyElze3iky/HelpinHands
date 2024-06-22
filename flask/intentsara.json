@@ -1,0 +1,663 @@
+{
+    "intents": [
+        {
+            "tag": "Cuts",
+            "patterns": [ "What to do if Cuts?", "How to cure Cuts?", "Which medicine to apply for Cuts?", "what to apply on cuts?", "Cuts", "cut", "cu", "injury", "injur", "Injury" ],
+            "responses": [ "Wash the cut properly to prevent infection and stop the bleeding by applying pressure for 1-2minutes until bleeding stops. Apply Petroleum Jelly to make sure that the wound is moist for quick healing. Finally cover the cut with a sterile bandage. Pain relievers such as acetaminophen can be applied." ],
+            "context_set": ""
+        },
+
+
+        {
+            "tag": "الجروح",
+            "patterns": [ "ما العمل في حالة الجروح؟", "كيفية علاج الجروح؟", "أي دواء يجب استخدامه للجروح؟", "ماذا يجب وضعه على الجروح؟", "جروح", "جرح", "جر", "إصابة", "إصابة", "إصابة" ],
+            "responses": [ "اغسل الجرح بشكل جيد لمنع العدوى وقف النزيف عن طريق وضع ضغط لمدة 1-2 دقيقة حتى يتوقف النزيف. ضع بتروليوم جيلي للتأكد من أن الجرح رطب للشفاء السريع. أخيرًا، اغطِ الجرح بضمادة نظيفة. يمكن استخدام مسكنات الألم مثل الأسيتامينوفين." ],
+            "context_set": ""
+            },
+
+
+
+        {
+            "tag": "Abrasions",
+            "patterns": [ "how do you treat abrasions?", "Do Abrasions cause scars?", "Abrasions", "what to do if abrasions?", "Which medicine to apply for abrasions?", "How to cure abrasions?", "Abrasion", "abrasion", "abra", "Abrasions", "scratch" ],
+            "responses": [ "Begin with washed hands.Gently clean the area with cool to lukewarm water and mild soap. Remove dirt or other particles from the wound using sterilized tweezers.For a mild scrape that’s not bleeding, leave the wound uncovered.If the wound is bleeding, use a clean cloth or bandage, and apply gentle pressure to the area to stop any bleeding.Cover a wound that bled with a thin layer of topical antibiotic ointment, like Bacitracin, or a sterile moisture barrier ointment, like Aquaphor. Cover it with a clean bandage or gauze. Gently clean the wound and change the ointment and bandage once per day.Watch the area for signs of infection, like pain or redness and swelling. See your doctor if you suspect infection." ],
+            "context_set": ""
+        },
+        {
+            "tag": "الخدوش",
+            "patterns": [ "كيفية علاج الخدوش؟", "هل تسبب الخدوش ندوبًا؟", "خدوش", "ماذا تفعل إذا كانت هناك خدوش؟", "أي دواء يجب استخدامه للخدوش؟", "كيفية علاج الخدوش؟", "خدش", "خدوش", "خد", "خدوش", "خدش" ],
+            "responses": [ "ابدأ بغسل يديك جيدًا. قم بتنظيف المنطقة بلطف باستخدام ماء بارد إلى دافئ وصابون خفيف. قم بإزالة الأوساخ أو الجسيمات الأخرى من الجرح باستخدام ملقطات نظيفة. إذا كانت الخدشة طفيفة ولا تنزف، اترك الجرح غير مغطى. إذا كان الجرح ينزف، استخدم قطعة قماش نظيفة أو ضمادة وضع ضغطًا خفيفًا على المنطقة لوقف النزيف. ضع طبقة رقيقة من مرهم مضاد للبكتيريا مثل الباسيتراسين أو مرهم حاجز رطوبة نظيف مثل أكوافور. اغطِ الجرح بضمادة نظيفة أو شاش. نظف الجرح بلطف وقم بتغيير المرهم والضمادة مرة واحدة في اليوم. اراقب المنطقة بحثًا عن علامات العدوى مثل الألم أو الاحمرار والتورم. قم بزيارة الطبيب إذا كنت تشتبه في وجود عدوى." ],
+            "context_set": ""
+            },
+
+
+        {
+            "tag": "stings",
+            "patterns": [ "Stings", "stin", "sting", "st", "How do you treat Sting?", "Stings", "What to do if you get a sting?", "Which medicine to apply if sting?", "sting", "Scorpion sting", "scorpion" ],
+            "responses": [ "Remove any stingers immediately. Some experts recommend scraping out the stinger with a credit card. Applying ice to the site may provide some mild relief. Apply ice for 20 minutes once every hour as needed. Wrap the ice in a towel or keep a cloth between the ice and skin to keep from freezing the skin. Taking an antihistamine such as diphenhydramine (Benadryl) or a nonsedating one such as loratadine (Claritin) will help with itching and swelling. Take acetaminophen (Tylenol) or ibuprofen (Motrin)for pain relief as needed. Wash the sting site with soap and water. Placing hydrocortisone cream on the sting can help relieve redness, itching, and swelling." ],
+            "context_set": ""
+        },
+        {
+            "tag": "لدغه",
+            "patterns": [ "لدغة", "لس", "لدغة", "ل", "كيفية علاج اللدغة؟", "لدغة", "ماذا تفعل إذا تعرضت للدغة؟", "أي دواء يجب استخدامه إذا تعرضت لاللدغة؟", "لدغة", "لدغة العقرب", "عقرب" ],
+            "responses": [ "قم بإزالة أي خراطيش فورًا. يوصى ببعض الخبراء بخدش الخرّاط بواسطة بطاقة ائتمان. يمكن أن توفر وضع الثلج على الموقع بعض الراحة الطفيفة. ضع الثلج لمدة 20 دقيقة مرة واحدة في الساعة حسب الحاجة. قم بلف الثلج بمنشفة أو احتفظ بقطعة قماش بين الثلج والجلد لتجنب تجمد الجلد. تناول مضاد للهستامين مثل الديفنهيدرامين (بينادريل) أو مضاد للهستامين غير مهدئ مثل اللوراتادين (كلاريتين) للتخفيف من الحكة والتورم. تناول أسيتامينوفين (تايلينول) أو ايبوبروفين (موترين) لتخفيف الألم حسب الحاجة. اغسل موقع اللدغة بالصابون والماء. وضع مرهم الهيدروكورتيزون على اللدغة يمكن أن يساعد في تخفيف الاحمرار والحكة والتورم." ],
+            "context_set": ""
+            },
+
+
+        {
+            "tag": "Burns",
+            "patterns": [
+                "How to treat minor burns?",
+                "What to do if I get burned?",
+                "Which medicine to apply for burns?",
+                "Burns",
+                "burn",
+                "minor burn",
+                "burn treatment",
+                "burn remedy"
+            ],
+            "responses": [
+                "For minor burns, you can follow these steps:\n\n1. Cool the burned area under cold running water for about 10-20 minutes or until the pain subsides.\n2. Avoid using ice directly on the burn.\n3. Cover the burn with a sterile non-stick dressing or clean cloth.\n4. Taking over-the-counter pain relievers like ibuprofen can help with pain and swelling.\n5. It's important to seek medical attention for severe burns or burns that cover a large area of the body."
+            ],
+            "context_set": ""
+        },
+
+        {
+            "tag": "حروق",
+            "patterns": [
+            "كيفية علاج الحروق البسيطة؟",
+            "ماذا تفعل إذا حصلت على حرق؟",
+            "أي دواء يجب استخدامه للحروق؟",
+            "حروق",
+            "حرق",
+            "حرق بسيط",
+            "علاج الحروق",
+            "علاج الحروق"
+            ],
+            "responses": [
+            "بالنسبة للحروق البسيطة، يمكنك اتباع الخطوات التالية:\n\n1. قم بتبريد المنطقة المحترقة تحت ماء بارد جاري لمدة 10-20 دقيقة أو حتى تتلاشى الألم.\n2. تجنب استخدام الثلج مباشرة على الحرق.\n3. غطي الحرق بضمادة غير لاصقة ونظيفة أو قماش نظيف.\n4. تناول مسكنات الألم التي تباع دون وصفة طبية مثل الإيبوبروفين للتخفيف من الألم والتورم.\n5. من المهم طلب المساعدة الطبية في حالة الحروق الشديدة أو الحروق التي تشمل مساحة كبيرة من الجسم."
+            ],
+            "context_set": ""
+            },
+
+        {
+            "tag": "Fractures",
+            "patterns": [
+                "How to handle a fracture?",
+                "What to do if I suspect a broken bone?",
+                "Fractures",
+                "broken bone",
+                "fracture treatment",
+                "fracture care"
+            ],
+            "responses": [
+                "If you suspect a fracture, it's important to take the following steps:\n\n1. Immobilize the injured area by keeping it as still as possible.\n2. Apply ice or a cold pack wrapped in a cloth to reduce swelling and pain.\n3. Seek medical attention immediately. Do not try to realign the bone yourself.\n4. Follow the instructions given by healthcare professionals and get an X-ray to assess the extent of the fracture.\n5. Depending on the type and severity of the fracture, treatment may involve casting, splinting, or surgery."
+            ],
+            "context_set": ""
+        },
+
+        {
+            "tag": "الكسر",
+            "patterns": [
+            "كيفية التعامل مع الكسور؟",
+            "ماذا يجب أن أفعل إذا كنت أشتبه في كسر عظمي؟",
+            "كسور",
+            "عظم مكسور",
+            "علاج الكسور",
+            "رعاية الكسور"
+            ],
+            "responses": [
+            "إذا كنت تشتبه في وجود كسر، من المهم اتخاذ الخطوات التالية:\n\n1. استقرار المنطقة المصابة عن طريق الحفاظ على ثباتها قدر الإمكان.\n2. وضع الثلج أو حزمة باردة ملفوفة بقطعة قماش للتقليل من الانتفاخ والألم.\n3. طلب المساعدة الطبية فوراً. لا تحاول إعادة توجيه العظم بنفسك.\n4. اتباع التعليمات المقدمة من قبل الفريق الطبي وإجراء أشعة الأشعة لتقييم مدى الكسر.\n5. اعتمادًا على نوع الكسر وشدته، قد يكون العلاج يتضمن وضع قالب أو قسيمة أو إجراء عملية جراحية."
+            ],
+            "context_set": ""
+            },
+
+        {
+            "tag": "Choking",
+            "patterns": [
+                "What to do if someone is choking?",
+                "How to perform the Heimlich maneuver?",
+                "Choking",
+                "choking person",
+                "choking treatment"
+            ],
+            "responses": [
+                "If someone is choking, you should take immediate action by following these steps:\n\n1. Stand behind the person and slightly to the side.\n2. Wrap your arms around their waist and lean them forward.\n3. Make a fist with one hand and place the thumb side against the person's upper abdomen, above the navel and below the ribcage.\n4. Grasp your fist with your other hand and give quick inward and upward thrusts until the object is expelled.\n5. If the person becomes unconscious, lower them gently to the ground and start CPR.\n6. Call emergency services for assistance."
+            ],
+            "context_set": ""
+        },
+
+        {
+            "tag": "اختناق",
+            "patterns": [
+            "ماذا يجب أن أفعل إذا كان شخص ما يختنق؟",
+            "كيفية أداء تدخل هايمليش؟",
+            "الإختناق",
+            "شخص يختنق",
+            "علاج الإختناق"
+            ],
+            "responses": [
+            "إذا كان شخص ما يختنق، يجب أن تتخذ إجراء فوري باتباع الخطوات التالية:\n\n1. الوقوف خلف الشخص وبعيدًا قليلاً عن جانبه.\n2. لف ذراعيك حول خصره واحمله قليلاً إلى الأمام.\n3. قم بجعل قبضة بيدك الواحدة وضع الجانب الذي به الإبهام على الجزء العلوي من البطن، فوق السرة وتحت القفص الصدري.\n4. أمسك بقبضة يدك الأخرى بيدك الأخرى وقم بعمل ضغط سريع وصعودي حتى يتم طرد الجسم الغريب.\n5. إذا فقد الشخص الوعي، أخفضه بلطف إلى الأرض وابدأ في إجراء الإنعاش القلبي الرئوي.\n6. اتصل بالخدمات الطبية الطارئة للحصول على المساعدة."
+            ],
+            "context_set": ""
+            },
+
+        {
+            "tag": "HeartAttack",
+            "patterns": [
+                "What are the symptoms of a heart attack?",
+                "How to recognize a heart attack?",
+                "What to do if someone is having a heart attack?",
+                "Heart attack",
+                "Chest pain",
+                "Myocardial infarction",
+                "Heart attack symptoms",
+                "Heart attack treatment"
+            ],
+            "responses": [
+                "The symptoms of a heart attack may include:\n\n- Chest pain or discomfort\n- Pain or discomfort in the upper body (arms, shoulders, neck, jaw, back)\n- Shortness of breath\n- Nausea or vomiting\n- Cold sweat\n\nIf someone is having a heart attack, it's important to take immediate action:\n\n1. Call emergency services or your local emergency number.\n2. Keep the person calm and encourage them to rest.\n3. Help them take their prescribed medication (such as aspirin) if available.\n4. If the person becomes unconscious and stops breathing, begin CPR until help arrives."
+            ],
+            "context_set": ""
+        },
+
+        {
+            "tag": "سكته قلبيه ",
+            "patterns": [
+            "ما هي أعراض السكتة القلبية؟",
+            "كيفية التعرف على السكتة القلبية؟",
+            "ماذا يجب أن أفعل إذا كان شخص ما يعاني من سكتةقلبية؟",
+            "سكتة قلبية",
+            "الإسعافات الأولية للسكتة القلبية"
+            ],
+            "responses": [
+            "تعد السكتة القلبية حالة طارئة وتحتاج إلى رعاية طبية فورية. إذا كنت تشتبه في وجود سكتة قلبية لشخص ما، اتبع الخطوات التالية:\n\n1. استدعاء خدمة الاسعاف الطبية على الفور.\n2. جعل الشخص يجلس في وضعية مريحة وتأكد من أنه لا يتعرض للتوتر أو الجهد الزائد.\n3. إعطاء الشخص مساحة كافية وعدم تركه وحده.\n4. إذا كان الشخص يستخدم نيترات لعلاج ضغط الدم المرتفع، يمكنك مساعدته في استخدامها.\n5. إذا فقد الشخص الوعي وتوقف تنفسه، يجب البدء في إجراء الإنعاش القلبي الرئوي فوراً واتباع إرشادات الطوارئ.\n\nمهم جداً أن تتصل بالخدمات الطبية الطارئة في أسرع وقت ممكن، حيث أن العلاج السريع يمكن أن يزيد من فرص البقاء على قيد الحياة وتقليل الأضرار على القلب."
+            ],
+            "context_set": ""
+            },
+
+
+        {
+            "tag": "Stroke",
+            "patterns": [
+                "What are the signs of a stroke?",
+                "How to recognize a stroke?",
+                "What to do if someone is having a stroke?",
+                "Stroke",
+                "Cerebrovascular accident",
+                "Signs of stroke",
+                "Stroke treatment"
+            ],
+            "responses": [
+                "The signs of a stroke can be remembered using the acronym FAST:\n\n- Face drooping: Ask the person to smile. Does one side of their face droop?\n- Arm weakness: Ask the person to raise both arms. Does one arm drift downward?\n- Speech difficulties: Ask the person to repeat a simple phrase. Is their speech slurred or strange?\n- Time to call emergency services: If you observe any of these signs, call emergency services or your local emergency number immediately.\n\nWhile waiting for medical help, keep the person comfortable and reassure them. Do not give them anything to eat or drink."
+            ],
+            "context_set": ""
+        },
+
+        {
+            "tag": "الاغماء",
+            "patterns": [
+                "ما هي علامات السكتة الدماغية؟",
+                "كيفية التعرف على السكتة الدماغية؟",
+                "ماذا تفعل إذا أصيب شخص ما بسكتة دماغية؟",
+                "سكتة دماغية",
+                "حادث الدماغية",
+                "علامات السكتة الدماغية",
+                "علاج السكتة الدماغية"
+            ],
+            "responses": [
+                "يمكن تذكر علامات السكتة الدماغية باستخدام الاختصار FAST:\n\n- تدلي الوجه: اطلب من الشخص أن يبتسم. هل يتدلى جانب واحد من وجهه؟\n- ضعف الذراع: اطلب من الشخص رفع ذراعيه. هل تنحرف إحدى الذراعين إلى الأسفل؟\n- صعوبات في النطق: اطلب من الشخص أن يكرر عبارة بسيطة. هل كلامه غير واضح أو غريب؟\n- حان الوقت للاتصال بخدمات الطوارئ: إذا لاحظت أيًا من هذه العلامات، فاتصل بخدمات الطوارئ أو رقم الطوارئ المحلي على الفور.\n\nأثناء انتظار المساعدة الطبية، حافظ على راحة الشخص وطمأنته. لا تعطه أي شيء يأكله أو يشربه."],
+            "context_set": ""
+        },
+
+
+        {
+            "tag": "AllergicReaction",
+            "patterns": [
+                "What are the symptoms of an allergic reaction?",
+                "How to recognize an allergic reaction?",
+                "What to do if someone is having an allergic reaction?",
+                "Allergic reaction",
+                "Anaphylaxis",
+                "Allergy symptoms",
+                "Allergic reaction treatment"
+            ],
+            "responses": [
+                "The symptoms of an allergic reaction can vary, but they may include:\n\n- Itchy, red, or watery eyes\n- Sneezing\n- Runny or stuffy nose\n- Skin rash or hives\n- Swelling of the lips, tongue, or throat\n- Difficulty breathing\n- Nausea or vomiting\n- Dizziness or fainting\n\nIf someone is having a severe allergic reaction (anaphylaxis), take these steps:\n\n1. Call emergency services or your local emergency number immediately.\n2. Help the person use their prescribed epinephrine auto-injector (such as an EpiPen) if available.\n3. Have them lie down and elevate their legs if they feel faint.\n4. Loosen tight clothing and cover them with a blanket to keep warm."
+            ],
+            "context_set": ""
+        },
+
+        {
+            "tag": "الحساسيه",
+            "patterns": [
+                "ما هي أعراض رد الفعل التحسسي؟",
+                "كيفية التعرف على رد الفعل التحسسي؟",
+                "ماذا تفعل إذا كان شخص ما يعاني من رد فعل تحسسي؟",
+                "رد فعل تحسسي",
+                "الحساسية المفرطة",
+                "أعراض الحساسية",
+                "علاج الحساسية"
+            ],
+            "responses": [
+                "يمكن أن تختلف أعراض رد الفعل التحسسي، ولكنها قد تشمل:\n\n- حكة أو احمرار أو عيون دامعة\n- العطس\n- سيلان أو انسداد الأنف\n- طفح جلدي أو شرى\n- تورم الشفاه أو اللسان أو الحلق\n- صعوبة في التنفس\n- غثيان أو قيء\n- دوخة أو إغماء\n\nإذا كان شخص ما يعاني من رد فعل تحسسي شديد (الحساسية المفرطة)، فاتبع الخطوات التالية:\n\n1. اتصل بالطوارئ الخدمات أو رقم الطوارئ المحلي لديك على الفور.\n2. ساعد الشخص على استخدام حاقن الإبينفرين التلقائي الموصوف له (مثل قلم EpiPen) إذا كان متاحًا.\n3. اطلب منه الاستلقاء ورفع ساقيه إذا شعر بالإغماء.\n4. قم بإرخائه الملابس الضيقة وتغطيتها ببطانية للتدفئة."
+             ],
+            "context_set": ""
+        },
+
+
+        {
+            "tag": "Seizure",
+            "patterns": [
+                "What to do if someone is having a seizure?",
+                "How to help during a seizure?",
+                "Seizure",
+                "Epileptic seizure",
+                "Convulsions",
+                "Seizure treatment"
+            ],
+            "responses": [
+                "If someone is having a seizure, follow these steps:\n\n1. Stay calm and keep others calm as well.\n2. Clear the area around the person to prevent injury.\n3. Do not restrain the person or put anything in their mouth.\n4. Protect their head by cushioning it with something soft.\n5. Once the seizure ends, help the person into a safe position on their side.\n6. Stay with the person until they are fully conscious and alert.\n7. If the seizure lasts longer than five minutes or if the person is injured, call emergency services."
+            ],
+            "context_set": ""
+        },
+
+        {
+            "tag": "صرع",
+            "patterns": [
+                "ماذا تفعل إذا أصيب شخص ما بنوبة صرع؟",
+                 "كيف تساعد أثناء النوبة؟",
+                 "اِنتِزاع",
+                 "نوبة صرع",
+                 "التشنجات",
+                 "علاج الصرع"
+            ],
+            "responses": [
+                "إذا أصيب شخص ما بنوبة صرع، فاتبع الخطوات التالية:\n\n1. حافظ على هدوئك وحافظ على هدوء الآخرين أيضًا.\n2. قم بإخلاء المنطقة المحيطة بالشخص لمنع الإصابة.\n3. لا تقيد الشخص أو تضع أي شيء عليه في الفم.\n4. قم بحماية رأسه عن طريق وضع وسادة ناعمة عليه.\n5. بعد انتهاء النوبة، ساعد الشخص على اتخاذ وضع آمن على جانبه.\n6. ابق مع الشخص حتى يصبح واعيًا ويقظًا تمامًا .\n7. إذا استمرت النوبة لأكثر من خمس دقائق أو إذا كان الشخص مصاباً، فاتصل بخدمة الطوارئ."
+             ],
+            "context_set": ""
+        },
+
+
+
+
+        {
+            "tag": "Bleeding",
+            "patterns": [
+                "What to do for severe bleeding?",
+                "How to stop bleeding?",
+                "First aid for bleeding",
+                "Severe bleeding",
+                "How to treat a deep cut?",
+                "What to do if someone is bleeding heavily?"
+            ],
+            "responses": [
+                "When dealing with severe bleeding, follow these steps:\n\n1. Call emergency services or your local emergency number.\n2. Apply direct pressure to the wound with a clean cloth or your hand.\n3. Elevate the injured area if possible, unless it causes more pain or worsens the injury.\n4. Maintain pressure on the wound until medical help arrives.\n5. Do not remove any objects that are stuck in the wound.\n6. If blood soaks through the cloth, do not remove it. Instead, add another cloth on top and continue applying pressure."
+            ],
+            "context_set": ""
+        },
+
+        {
+            "tag": "النزيف",
+            "patterns": [
+                "ماذا تفعل للنزيف الشديد؟",
+                "كيف تتوقف عن النزيف؟",
+                "الإسعافات الأولية للنزيف",
+                "نزيف شديد",
+                "كيفية علاج قطع عميق؟",
+                "ماذا تفعل إذا كان شخص ما ينزف بشدة؟"
+            ],
+            "responses": [
+                "عند التعامل مع نزيف حاد، اتبع الخطوات التالية:\n\n1. اتصل بخدمات الطوارئ أو رقم الطوارئ المحلي لديك.\n2. اضغط بشكل مباشر على الجرح بقطعة قماش نظيفة أو بيدك.\n3. ارفع المنطقة المصابة إذا ممكن، ما لم يسبب المزيد من الألم أو يؤدي إلى تفاقم الإصابة.\n4. استمر في الضغط على الجرح حتى وصول المساعدة الطبية.\n5. لا تقم بإزالة أي أشياء عالقة في الجرح.\n6. إذا تسرب الدم عبر قطعة القماش، لا تقم بإزالته، وبدلاً من ذلك، أضف قطعة قماش أخرى في الأعلى واستمر في الضغط."
+                     ],
+            "context_set": ""
+        },
+
+
+        {
+            "tag": "Poisoning",
+            "patterns": [
+                "What to do if someone is poisoned?",
+                "How to handle poisoning?",
+                "First aid for poisoning",
+                "Poison ingestion",
+                "What are the symptoms of poisoning?"
+            ],
+            "responses": [
+                "If you suspect someone has been poisoned, take these steps:\n\n1. Call emergency services or your local poison control center immediately.\n2. Provide information about the poison, if known.\n3. Follow the instructions given by the emergency operator or poison control center.\n4. If the person vomits, collect a sample for analysis, if possible.\n5. Do not induce vomiting unless instructed to do so by medical professionals.\n6. Keep the person calm and reassure them while waiting for medical help to arrive."
+            ],
+            "context_set": ""
+        },
+
+        {
+            "tag": "التسمم",
+            "patterns": [
+                "ماذا تفعل إذا تسمم شخص ما؟",
+                "كيفية التعامل مع التسمم؟",
+                "الإسعافات الأولية للتسمم",
+                "ابتلاع السم",
+                "ما هي أعراض التسمم؟"
+            ],
+            "responses": [
+                "إذا كنت تشك في تعرض شخص ما للتسمم، فاتبع الخطوات التالية:\n\n1. اتصل بخدمات الطوارئ أو مركز مكافحة السموم المحلي لديك على الفور.\n2. قدم معلومات حول السم، إذا كان معروفًا.\n3. اتبع الإرشادات المقدمة من قبل عامل الطوارئ أو مركز مكافحة السموم.\n4. إذا تقيأ الشخص، اجمع عينة لتحليلها، إن أمكن.\n5. لا تسبب التقيؤ ما لم يُطلب منك ذلك من قبل المتخصصين الطبيين.\n6. حافظ على هدوء الشخص وطمأنته أثناء انتظار وصول المساعدة الطبية."
+             ],
+            "context_set": ""
+        },
+
+
+
+
+        {
+            "tag": "ElectricShock",
+            "patterns": [
+                "What to do if someone gets an electric shock?",
+                "How to handle electric shock?",
+                "First aid for electric shock",
+                "Electricity accident",
+                "Electric shock treatment"
+            ],
+            "responses": [
+                "If someone gets an electric shock, follow these steps:\n\n1. Ensure your own safety by not touching the person directly if they are still in contact with the electrical source.\n2. Call emergency services or your local emergency number.\n3. Disconnect the power source if possible, or turn off the main power supply.\n4. Check the person's breathing and pulse. If necessary, start CPR.\n5. Cover any burns with a sterile dressing or clean cloth.\n6. Do not apply any creams, ointments, or home remedies to the burns.\n7. Keep the person lying down and provide reassurance until medical help arrives."
+            ],
+            "context_set": ""
+        },
+
+        {
+            "tag": "صدمة كهربائية",
+            "patterns": [
+                "ماذا تفعل إذا أصيب شخص ما بصدمة كهربائية؟",
+                "كيفية التعامل مع الصدمة الكهربائية؟",
+                "الإسعافات الأولية في حالة الصدمة الكهربائية",
+                "حادث كهرباء",
+                "العلاج بالصدمات الكهربائية"
+            ],
+            "responses": [
+                "إذا تعرض شخص ما لصدمة كهربائية، فاتبع الخطوات التالية:\n\n1. تأكد من سلامتك من خلال عدم لمس الشخص مباشرة إذا كان لا يزال على اتصال بمصدر الكهرباء.\n2. اتصل بخدمات الطوارئ أو رقم الطوارئ المحلي لديك. \n3. افصل مصدر الطاقة إن أمكن، أو أوقف تشغيل مصدر الطاقة الرئيسي.\n4. تحقق من تنفس الشخص ونبضه. إذا لزم الأمر، ابدأ عملية الإنعاش القلبي الرئوي.\n5. قم بتغطية أي حروق بضمادة معقمة أو قطعة قماش نظيفة.\n6 . لا تضع أي كريمات أو مراهم أو علاجات منزلية على الحروق.\n7. أبق الشخص مستلقياً وطمئنه حتى وصول المساعدة الطبية."
+                ],
+            "context_set": ""
+        },
+
+
+        {
+            "tag": "HeatStroke",
+            "patterns": [
+                "What are the symptoms of heat stroke?",
+                "How to recognize heat stroke?",
+                "What to do if someone has a heat stroke?",
+                "Heatstroke",
+                "Heat exhaustion",
+                "Heat stroke treatment"
+            ],
+            "responses": [
+                "The symptoms of heat stroke may include:\n\n- High body temperature (above 103°F or 39.4°C)\n- Hot, red, and dry skin\n- Rapid and strong pulse\n- Headache\n- Dizziness\n- Nausea or vomiting\n- Confusion or unconsciousness\n\nIf someone has a heat stroke, take these steps:\n\n1. Call emergency services or your local emergency number immediately.\n2. Move the person to a cooler location and try to lower their body temperature.\n3. Remove excess clothing and apply cool water to their skin.\n4. Fan the person to promote evaporation.\n5. Do not give them fluids to drink if they are unconscious."
+            ],
+            "context_set": ""
+        },
+
+        {
+            "tag": "ضربه شمس",
+            "patterns": [
+                "ما هي أعراض ضربة الشمس؟",
+                 "كيفية التعرف على ضربة الشمس؟",
+                 "ماذا تفعل إذا أصيب شخص ما بضربة شمس؟",
+                 "ضربة شمس",
+                 "الإنهاك الحراري",
+                 "علاج ضربة الشمس"
+            ],
+            "responses": [
+                "قد تشمل أعراض ضربة الشمس ما يلي:\n\n- ارتفاع درجة حرارة الجسم (أعلى من 103 درجة فهرنهايت أو 39.4 درجة مئوية)\n- الجلد ساخن وأحمر وجاف\n- نبض سريع وقوي\n- الصداع\n - الدوخة\n- الغثيان أو القيء\n- الارتباك أو فقدان الوعي\n\nإذا أصيب شخص ما بضربة شمس، فاتبع الخطوات التالية:\n\n1. اتصل بخدمات الطوارئ أو رقم الطوارئ المحلي لديك على الفور.\n2. انقل الشخص إلى مكان أكثر برودة وحاول خفض درجة حرارة جسمه.\n3. قم بإزالة الملابس الزائدة واستخدم الماء البارد على بشرته.\n4. قم بتهوية الشخص لتعزيز عملية التبخر.\n5. لا تقدم له سوائل للشرب إذا كان فاقدًا للوعي. "
+             ],
+            "context_set": ""
+        },
+
+        {
+            "tag": "Whiplash",
+            "patterns": [
+                "What are the symptoms of whiplash?",
+                "How to treat whiplash injury?",
+                "Whiplash",
+                "Neck injury in car accident",
+                "Whiplash treatment",
+                "What causes whiplash?"
+            ],
+            "responses": [
+                "Whiplash is a neck injury that occurs due to a sudden jerking motion of the head, often seen in car accidents. Symptoms may include neck pain, stiffness, headaches, and shoulder or upper back pain. Treatment may involve rest, ice or heat therapy, pain medication, physical therapy, and exercises to strengthen the neck muscles."
+            ],
+            "context_set": ""
+        },
+
+        {
+            "tag": "الرقبه ",
+            "patterns": [
+                "ما هي أعراض الرقبة المطوقة؟",
+                "كيفية علاج إصابة الرقبة المطوقة؟",
+                "الرقبة المطوقة",
+                "إصابة الرقبة في حادث سيارة",
+                "علاج الرقبة المطوقة",
+                "ما الذي يسبب الرقبة المطوقة؟"
+            ],
+            "responses": [
+                "الرقبة المطوقة هي إصابة في الرقبة تحدث بسبب حركة مفاجئة للرأس، كما يحدث غالبًا في حوادث السيارات. قد تتضمن الأعراض ألم في الرقبة، وتيبس في الرقبة، والصداع، وآلام الكتف أو الظهر العلوي. يمكن أن يشمل العلاج الراحة، وعلاج الجليد أو الحرارة، وتناول الأدوية المسكنة للألم، والعلاج الطبيعي، وممارسة تقوية عضلات الرقبة."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Concussion",
+            "patterns": [
+                "What are the signs of a concussion?",
+                "How to recognize a concussion?",
+                "Concussion",
+                "Head injury in car accident",
+                "Concussion treatment",
+                "What to do if someone has a concussion?"
+            ],
+            "responses": [
+                "A concussion is a type of traumatic brain injury caused by a blow to the head or violent shaking of the head and body. Symptoms may include headache, confusion, dizziness, nausea, and sensitivity to light or noise. Treatment typically involves rest, avoiding activities that could worsen symptoms, and gradually returning to normal activities under medical supervision."
+            ],
+            "context_set": ""
+        },
+
+
+
+
+        {
+            "tag": "ارتجاج",
+            "patterns": [
+                "ما هي علامات الارتجاج؟",
+                "كيفية التعرف على الارتجاج؟",
+                "الارتجاج",
+                "إصابة الرأس في حادث السيارة",
+                "علاج الارتجاج",
+                "ماذا تفعل إذا كان شخص ما يعاني من ارتجاج؟"
+            ],
+            "responses": [
+                "الارتجاج هو نوع من الإصابات الدماغية الناجمة عن ضربة على الرأس أو اهتزاز عنيف للرأس والجسم. قد تشمل الأعراض الصداع، والارتباك، والدوار، والغثيان، والحساسية للضوء أو الضجيج. يشمل العلاج عادة الراحة، وتجنب الأنشطة التي قد تزيد من الأعراض سوءًا، والعودة تدريجيًا إلى الأنشطة العادية تحت إشراف طبي."
+            ],
+            "context_set": ""
+        },
+
+        {
+            "tag": "Spinal Cord Injury",
+            "patterns": [
+                "What are the symptoms of a spinal cord injury?",
+                "How to recognize a spinal cord injury?",
+                "Spinal cord injury",
+                "Back injury in car accident",
+                "Spinal cord injury treatment",
+                "What to do if someone has a spinal cord injury?"
+            ],
+            "responses": [
+                "A spinal cord injury occurs when there is damage to the spinal cord, often resulting in loss of movement or sensation below the site of the injury. Symptoms may include paralysis, loss of sensation, difficulty breathing, and loss of bladder or bowel control. Treatment depends on the severity and location of the injury and may involve surgery, rehabilitation, and ongoing medical care."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "اصابه الحبل الشوكى",
+            "patterns": [
+                "ما هي أعراض إصابة الحبل الشوكي؟",
+                "كيفية التعرف على إصابة الحبل الشوكي؟",
+                "إصابة الحبل الشوكي",
+                "إصابة الظهر في حادث السيارة",
+                "علاج إصابة الحبل الشوكي",
+                "ماذا تفعل إذا كان شخص ما يعاني من إصابة الحبل الشوكي؟"
+            ],
+            "responses": [
+                "تحدث إصابة الحبل الشوكي عندما يحدث ضرر للحبل الشوكي، مما يؤدي في كثير من الأحيان إلى فقدان الحركة أو الإحساس تحت موقع الإصابة. قد تشمل الأعراض الشلل، وفقدان الإحساس، وصعوبة التنفس، وفقدان السيطرة على المثانة أو الأمعاء. يعتمد العلاج على شدة وموقع الإصابة وقد يشمل الجراحة، والتأهيل، والرعاية الطبية المستمرة."
+            ],
+            "context_set": ""
+        },
+
+
+        
+            {
+                "tag": "Bicycle Accident",
+                "patterns": [
+                    "What should I do if I witness a bicycle accident?",
+                    "How to help a cyclist after an accident?",
+                    "Bicycle accident",
+                    "Cyclist crash",
+                    "Biker injury",
+                    "What to do as a cyclist if involved in an accident?"
+                ],
+                "responses": [
+                    "If you witness a bicycle accident:\n\n- Call emergency services immediately and provide details of the accident location and any injuries.\n- Approach the scene cautiously to avoid further accidents or injuries.\n- Offer assistance such as providing first aid or comforting the injured person while waiting for help to arrive.\n- Cooperate with law enforcement and provide any information or witness statements requested."
+                ],
+                "context_set": ""
+            },
+
+            {
+                "tag": "دراجه هوائيه ",
+                "patterns": [
+                    "ماذا يجب أن أفعل إذا شهدت حادث دراجة هوائية؟",
+                    "كيف يمكنني مساعدة الدراج بعد الحادث؟",
+                    "حادث دراجة هوائية",
+                    "حادث دواسة الدراج",
+                    "إصابة الدراج","دراجه",
+                    "ما الذي يجب على الدراج فعله إذا تورط في حادث؟"
+                ],
+                "responses": [
+                    "إذا شهدت حادث دراجة هوائية:\n\n- اتصل بخدمات الطوارئ على الفور وقدم تفاصيل موقع الحادث وأي إصابات.\n- اقترب من مكان الحادث بحذر لتجنب وقوع حوادث أو إصابات إضافية.\n- قدم المساعدة مثل تقديم الإسعافات الأولية أو تهدئة الشخص المصاب بينما تنتظر وصول المساعدة.\n- تعاون مع رجال الشرطة وقدم أي معلومات أو شهادات شاهد قد يُطلب منك تقديمها."
+                ],
+                "context_set": ""
+            },
+            {
+                "tag": "Bus Accident",
+                "patterns": [
+                    "What should I do if I'm in a bus accident?",
+                    "How to handle a bus accident?",
+                    "Bus accident",
+                    "Public transportation collision",
+                    "What are the steps after a bus accident?"
+                ],
+                "responses": [
+                    "If you're involved in a bus accident:\n\n- Check for injuries and call emergency services immediately if anyone is injured.\n- Follow the instructions of the bus driver and emergency responders.\n- Exchange information with other parties involved, including names, addresses, phone numbers, and insurance details.\n- Cooperate with law enforcement and provide any information or witness statements requested.\n- Seek medical attention for any injuries, no matter how minor."
+                ],
+                "context_set": ""
+            },
+
+
+            {
+                "tag": "حادثه ",
+                "patterns": [
+                    "ماذا يجب أن أفعل إذا كنت في حادث حافلة؟",
+                    "كيفية التعامل مع حادث حافلة؟",
+                    "حادث حافلة",
+                    "تصادم النقل العام",
+                    "ما هي الخطوات بعد حادث حافلة؟"
+                ],
+                "responses": [
+                    "إذا كنت في حادث حافلة:\n\n- تحقق من الإصابات واتصل بخدمات الطوارئ على الفور إذا كان هناك أي إصابات.\n- اتبع تعليمات سائق الحافلة ومستجيبي الطوارئ.\n- قم بتبادل المعلومات مع الأطراف الأخرى المتضررة، بما في ذلك الأسماء والعناوين وأرقام الهواتف وتفاصيل التأمين.\n- تعاون مع رجال الشرطة وقدم أي معلومات أو شهادات شاهد قد يُطلب منك تقديمها.\n- التوجه إلى الطبيب للحصول على العلاج في حال وجود أي إصابات، بغض النظر عن خطورتها."
+                ],
+                "context_set": ""
+            },
+            {
+                "tag": "Truck Accident",
+                "patterns": [
+                    "What should I do if I witness a truck accident?",
+                    "How to help after a truck accident?",
+                    "Truck accident",
+                    "Semi-truck collision",
+                    "Big rig crash",
+                    "What to do as a driver if involved in a truck accident?"
+                ],
+                "responses": [
+                    "If you witness a truck accident:\n\n- Call emergency services immediately and provide details of the accident location and any injuries.\n- Approach the scene cautiously to avoid further accidents or injuries.\n- Offer assistance such as providing first aid or comforting the injured person while waiting for help to arrive.\n- Cooperate with law enforcement and provide any information or witness statements requested."
+                ],
+                "context_set": ""
+            },
+
+            {
+                "tag": "حادث شاحنة",
+                "patterns": [
+                    "ماذا يجب أن أفعل إذا شهدت حادث شاحنة؟",
+                    "كيف يمكنني المساعدة بعد حادث شاحنة؟",
+                    "حادث شاحنة",
+                    "تصادم شاحنة نصف مقطورة",
+                    "تصادم الشاحنات الكبيرة",
+                    "ما الذي يجب على السائق فعله إذا تورط في حادث شاحنة؟"
+                ],
+                "responses": [
+                    "إذا شهدت حادث شاحنة:\n\n- اتصل بخدمات الطوارئ على الفور وقدم تفاصيل موقع الحادث وأي إصابات.\n- اقترب من مكان الحادث بحذر لتجنب وقوع حوادث أو إصابات إضافية.\n- قدم المساعدة مثل تقديم الإسعافات الأولية أو تهدئة الشخص المصاب بينما تنتظر وصول المساعدة.\n- تعاون مع رجال الشرطة وقدم أي معلومات أو شهادات شاهد قد يُطلب منك تقديمها."
+                ],
+                "context_set": ""
+            },
+            {
+                "tag": "Drug Overdose",
+                "patterns": [
+                    "What are the signs of a drug overdose?",
+                    "How to help someone who has overdosed?",
+                    "Drug overdose",
+                    "Overdose symptoms",
+                    "What to do in case of drug overdose?"
+                ],
+                "responses": [
+                    "Signs of a drug overdose may include confusion, unconsciousness, difficulty breathing, rapid heartbeat, and seizures. If someone has overdosed on drugs:\n\n- Call emergency services immediately.\n- Stay with the person and try to keep them awake and breathing.\n- If the person is unconscious but breathing, lay them on their side in the recovery position.\n- Do not attempt to induce vomiting unless instructed to do so by medical professionals.\n- Provide as much information as possible about the type and amount of drug taken to the medical responders."
+                ],
+                "context_set": ""
+            },
+            {
+
+
+            "tag": "المخدرات",
+            "patterns": [
+                "المخدراما هي علامات جرعة زائدة من ت؟",
+                "كيف تساعد شخصًا تناول جرعة زائدة؟",
+                "جرعة زائدة من المخدر",
+                "أعراض الجرعة الزائدة",
+                "ماذا تفعل في حالة تناول جرعة زائدة من المخدرات؟"
+            ],
+            "responses": [
+                "قد تشمل علامات جرعة زائدة من المخدرات الارتباك، وفقدان الوعي، وصعوبة التنفس، وسرعة ضربات القلب، والنوبات. إذا تناول شخص ما جرعة زائدة من المخدرات:\n\n- اتصل بخدمات الطوارئ على الفور.\n- ابق مع الشخص وحاول الاحتفاظ به مستيقظًا ويتنفس.\n- إذا كان الشخص فاقدًا للوعي ولكنه يتنفس، ضعه على جانبه في وضع الإفاقة.\n- لا تحاول تحفيز التقيؤ ما لم يُطلب منك ذلك من قبل متخصصين طبيين.\n- قدم أكبر قدر من المعلومات قدر الإمكان عن نوع وكمية الدواء الذي يتم تناوله للمستجيبين الطبيين."
+             ],
+            "context_set": ""
+        },
+            {
+                "tag": "Carbon Monoxide Poisoning",
+                "patterns": [
+                    "What are the symptoms of carbon monoxide poisoning?",
+                    "How to treat carbon monoxide poisoning?",
+                    "Carbon monoxide poisoning",
+                    "CO poisoning",
+                    "What to do if someone has carbon monoxide poisoning?"
+                ],
+                "responses": [
+                    "Symptoms of carbon monoxide poisoning include headache, dizziness, weakness, nausea, vomiting, chest pain, and confusion. If someone has carbon monoxide poisoning:\n\n- Move them to a well-ventilated area with fresh air immediately.\n- Call emergency services and inform them of the situation.\n- If the person is unconscious, perform CPR if you are trained to do so.\n- Seek medical attention for the affected person, even if symptoms seem to improve."
+                ],
+                "context_set": ""
+            },
+            {
+                "tag": "التسمم بأول أكسيد الكربون",
+                "patterns": [
+                    "ما هي أعراض التسمم بأول أكسيد الكربون؟",
+                    "كيفية علاج التسمم بأول أكسيد الكربون؟",
+                    "التسمم بأول أكسيد الكربون",
+                    "التسمم بأول أكسيد الكربون",
+                    "ماذا تفعل إذا أصيب شخص ما بالتسمم بأول أكسيد الكربون؟"],
+                "responses": [
+                    "تشمل أعراض التسمم بأول أكسيد الكربون الصداع، والدوخة، والضعف، والغثيان، والتقيؤ، وألم في الصدر، والارتباك. إذا أصيب شخص ما بالتسمم بأول أكسيد الكربون:\n\n- انقله فورًا إلى منطقة جيدة التهوية بها هواء نقي.\n - اتصل بخدمات الطوارئ وأبلغهم بالحالة.\n- إذا كان الشخص فاقدًا للوعي، قم بإجراء الإنعاش القلبي الرئوي إذا كنت مدربًا على القيام بذلك.\n- اطلب الرعاية الطبية للشخص المصاب، حتى لو بدا أن الأعراض تتحسن."
+                ],
+                "context_set": ""
+            }
+        ]
+    
+}

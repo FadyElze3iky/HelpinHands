@@ -1,0 +1,254 @@
+Date : 2024-03-29 15:14:03
+Directory : d:\For Studing\Flutter\helping_hands
+Total : 140 files,  3103 codes, 249 comments, 338 blanks, all 3690 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |        133 |      3,038 |        249 |        332 |      3,619 |
+| JSON     |          2 |         71 |          0 |          5 |         76 |
+| XML      |          1 |          3 |          0 |          1 |          4 |
+| YAML     |          1 |          2 |          0 |          0 |          2 |
+| C++      |          2 |         -5 |          0 |          0 |         -5 |
+| Swift    |          1 |         -6 |          0 |          0 |         -6 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                            | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                               |        140 |      3,103 |        249 |        338 |      3,690 |
+| . (Files)                                                                                                                       |          1 |          2 |          0 |          0 |          2 |
+| android                                                                                                                         |          1 |          3 |          0 |          1 |          4 |
+| android\app                                                                                                                     |          1 |          3 |          0 |          1 |          4 |
+| android\app\src                                                                                                                 |          1 |          3 |          0 |          1 |          4 |
+| android\app\src\main                                                                                                            |          1 |          3 |          0 |          1 |          4 |
+| lib                                                                                                                             |        135 |      3,109 |        249 |        337 |      3,695 |
+| lib (Files)                                                                                                                     |          3 |        -39 |        -11 |         -3 |        -53 |
+| lib\Features                                                                                                                    |        119 |        896 |         73 |         75 |      1,044 |
+| lib\Features\Home                                                                                                               |         23 |        370 |         24 |         43 |        437 |
+| lib\Features\Home\data                                                                                                          |          1 |          2 |          0 |          2 |          4 |
+| lib\Features\Home\presentation                                                                                                  |         22 |        368 |         24 |         41 |        433 |
+| lib\Features\Home\presentation (Files)                                                                                          |          2 |         71 |          0 |          7 |         78 |
+| lib\Features\Home\presentation\manager                                                                                          |          3 |         42 |          0 |         10 |         52 |
+| lib\Features\Home\presentation\manager\acc_on_map                                                                               |          2 |         44 |          0 |         10 |         54 |
+| lib\Features\Home\presentation\manager\home_list                                                                                |          1 |         -2 |          0 |          0 |         -2 |
+| lib\Features\Home\presentation\widgets                                                                                          |         17 |        255 |         24 |         24 |        303 |
+| lib\Features\PostReport                                                                                                         |          5 |         -8 |          0 |         -5 |        -13 |
+| lib\Features\PostReport\data                                                                                                    |          1 |        -14 |          0 |         -5 |        -19 |
+| lib\Features\PostReport\presentation                                                                                            |          4 |          6 |          0 |          0 |          6 |
+| lib\Features\PostReport\presentation (Files)                                                                                    |          1 |          1 |          0 |          0 |          1 |
+| lib\Features\PostReport\presentation\manager                                                                                    |          2 |          4 |          0 |          0 |          4 |
+| lib\Features\PostReport\presentation\manager\post_report                                                                        |          2 |          4 |          0 |          0 |          4 |
+| lib\Features\PostReport\presentation\widgets                                                                                    |          1 |          1 |          0 |          0 |          1 |
+| lib\Features\Profile                                                                                                            |         52 |        184 |        -39 |        -11 |        134 |
+| lib\Features\Profile\Presentation                                                                                               |         51 |          9 |         -8 |          0 |          1 |
+| lib\Features\Profile\Presentation (Files)                                                                                       |          4 |          4 |          1 |          0 |          5 |
+| lib\Features\Profile\Presentation\manager                                                                                       |          6 |         29 |         -4 |         20 |         45 |
+| lib\Features\Profile\Presentation\manager\Profile_info                                                                          |          3 |        -20 |         -4 |          6 |        -18 |
+| lib\Features\Profile\Presentation\manager\Profile_info\UserBotton                                                               |          1 |        -13 |         -2 |         -2 |        -17 |
+| lib\Features\Profile\Presentation\manager\Profile_info\UserField                                                                |          2 |         -7 |         -2 |          8 |         -1 |
+| lib\Features\Profile\Presentation\manager\emaergancy_contacts                                                                   |          1 |          0 |          0 |          1 |          1 |
+| lib\Features\Profile\Presentation\manager\emaergancy_contacts\contacts                                                          |          1 |          0 |          0 |          1 |          1 |
+| lib\Features\Profile\Presentation\manager\toggles                                                                               |          2 |         49 |          0 |         13 |         62 |
+| lib\Features\Profile\Presentation\widgets                                                                                       |         15 |         29 |          0 |         -6 |         23 |
+| lib\Features\Profile\Presentation\widgets_Contacts                                                                              |         10 |        127 |          0 |          2 |        129 |
+| lib\Features\Profile\Presentation\widgets_information                                                                           |         16 |       -180 |         -5 |        -16 |       -201 |
+| lib\Features\Profile\data                                                                                                       |          1 |        175 |        -31 |        -11 |        133 |
+| lib\Features\Splash                                                                                                             |          1 |         -1 |          0 |          1 |          0 |
+| lib\Features\Splash\widgets                                                                                                     |          1 |         -1 |          0 |          1 |          0 |
+| lib\Features\auth                                                                                                               |         15 |         23 |          6 |          0 |         29 |
+| lib\Features\auth\data                                                                                                          |          1 |         48 |          6 |          7 |         61 |
+| lib\Features\auth\presentation                                                                                                  |         14 |        -25 |          0 |         -7 |        -32 |
+| lib\Features\auth\presentation (Files)                                                                                          |          2 |         -4 |          0 |          1 |         -3 |
+| lib\Features\auth\presentation\manager                                                                                          |          3 |        -21 |         -5 |         -9 |        -35 |
+| lib\Features\auth\presentation\manager (Files)                                                                                  |          2 |        -22 |         -5 |        -10 |        -37 |
+| lib\Features\auth\presentation\manager\forget_password                                                                          |          1 |          1 |          0 |          1 |          2 |
+| lib\Features\auth\presentation\widgets                                                                                          |          9 |          0 |          5 |          1 |          6 |
+| lib\Features\chat                                                                                                               |          6 |         29 |         93 |         25 |        147 |
+| lib\Features\chat\data                                                                                                          |          1 |         40 |          4 |         10 |         54 |
+| lib\Features\chat\presentation                                                                                                  |          5 |        -11 |         89 |         15 |         93 |
+| lib\Features\chat\presentation (Files)                                                                                          |          1 |         14 |          0 |         -2 |         12 |
+| lib\Features\chat\presentation\manager                                                                                          |          2 |        -26 |         89 |         18 |         81 |
+| lib\Features\chat\presentation\widgets                                                                                          |          2 |          1 |          0 |         -1 |          0 |
+| lib\Features\dangerMap                                                                                                          |          4 |        293 |          0 |         30 |        323 |
+| lib\Features\dangerMap\data                                                                                                     |          1 |        167 |          0 |         17 |        184 |
+| lib\Features\dangerMap\presentation                                                                                             |          3 |        126 |          0 |         13 |        139 |
+| lib\Features\dangerMap\presentation (Files)                                                                                     |          1 |         87 |          0 |          3 |         90 |
+| lib\Features\dangerMap\presentation\manager                                                                                     |          2 |         39 |          0 |         10 |         49 |
+| lib\Features\dangerMap\presentation\manager\danger_map                                                                          |          2 |         39 |          0 |         10 |         49 |
+| lib\Features\findContact                                                                                                        |         11 |        -10 |        -11 |         -8 |        -29 |
+| lib\Features\findContact\data                                                                                                   |          1 |        -38 |        -11 |         -8 |        -57 |
+| lib\Features\findContact\presentation                                                                                           |         10 |         28 |          0 |          0 |         28 |
+| lib\Features\findContact\presentation (Files)                                                                                   |          2 |          8 |          0 |         -1 |          7 |
+| lib\Features\findContact\presentation\manager                                                                                   |          2 |        -12 |          0 |          0 |        -12 |
+| lib\Features\findContact\presentation\manager\contact_location                                                                  |          2 |        -12 |          0 |          0 |        -12 |
+| lib\Features\findContact\presentation\widgets                                                                                   |          6 |         32 |          0 |          1 |         33 |
+| lib\Features\maps                                                                                                               |          2 |         16 |          0 |          0 |         16 |
+| lib\Features\maps\presentation                                                                                                  |          2 |         16 |          0 |          0 |         16 |
+| lib\Features\maps\presentation\manager                                                                                          |          1 |         -1 |          0 |          0 |         -1 |
+| lib\Features\maps\presentation\manager\Searchdir                                                                                |          1 |         -1 |          0 |          0 |         -1 |
+| lib\Features\maps\presentation\widgets                                                                                          |          1 |         17 |          0 |          0 |         17 |
+| lib\core                                                                                                                        |          8 |      1,795 |        151 |        224 |      2,170 |
+| lib\core\GeneralImp                                                                                                             |          4 |      1,759 |        121 |        202 |      2,082 |
+| lib\core\utils                                                                                                                  |          3 |         31 |         30 |         22 |         83 |
+| lib\core\widgets                                                                                                                |          1 |          5 |          0 |          0 |          5 |
+| lib\generated                                                                                                                   |          3 |        386 |         36 |         36 |        458 |
+| lib\generated (Files)                                                                                                           |          1 |        288 |         36 |         36 |        360 |
+| lib\generated\intl                                                                                                              |          2 |         98 |          0 |          0 |         98 |
+| lib\l10n                                                                                                                        |          2 |         71 |          0 |          5 |         76 |
+| linux                                                                                                                           |          1 |          4 |          0 |          0 |          4 |
+| linux\flutter                                                                                                                   |          1 |          4 |          0 |          0 |          4 |
+| macos                                                                                                                           |          1 |         -6 |          0 |          0 |         -6 |
+| macos\Flutter                                                                                                                   |          1 |         -6 |          0 |          0 |         -6 |
+| windows                                                                                                                         |          1 |         -9 |          0 |          0 |         -9 |
+| windows\flutter                                                                                                                 |          1 |         -9 |          0 |          0 |         -9 |
++---------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                        | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\For Studing\Flutter\helping_hands\android\app\src\main\AndroidManifest.xml                                                   | XML      |          3 |          0 |          1 |          4 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\data\home_impl.dart                                                      | Dart     |          2 |          0 |          2 |          4 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\accidant_location.dart                                      | Dart     |         70 |          0 |          6 |         76 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\home.dart                                                   | Dart     |          1 |          0 |          1 |          2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\manager\acc_on_map\acc_on_map_cubit.dart                    | Dart     |         31 |          0 |          4 |         35 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\manager\acc_on_map\acc_on_map_state.dart                    | Dart     |         13 |          0 |          6 |         19 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\manager\home_list\home_list_cubit.dart                      | Dart     |         -2 |          0 |          0 |         -2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\widgets\accidant_location.dart                              | Dart     |        -24 |          0 |         -3 |        -27 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\widgets\app_bar_title.dart                                  | Dart     |        -13 |         13 |          2 |          2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\widgets\bar.dart                                            | Dart     |          4 |         11 |          0 |         15 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\widgets\distance_widget.dart                                | Dart     |          1 |          0 |          0 |          1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\widgets\floating_button.dart                                | Dart     |          1 |          0 |          0 |          1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\widgets\floating_buttons.dart                               | Dart     |         22 |          0 |          3 |         25 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\widgets\floating_serach_button.dart                         | Dart     |         44 |          0 |          3 |         47 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\widgets\home_body.dart                                      | Dart     |          4 |          0 |          0 |          4 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\widgets\location_on_map.dart                                | Dart     |         28 |          0 |          4 |         32 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\widgets\lower_section.dart                                  | Dart     |         62 |          0 |          4 |         66 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\widgets\options.dart                                        | Dart     |         20 |          0 |          2 |         22 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\widgets\optoin_icon.dart                                    | Dart     |         53 |          0 |          2 |         55 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\widgets\photo_view.dart                                     | Dart     |         30 |          0 |          5 |         35 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\widgets\post_image.dart                                     | Dart     |         12 |          0 |          0 |         12 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\widgets\report_model.dart                                   | Dart     |          1 |          0 |          0 |          1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\widgets\time_ago.dart                                       | Dart     |         -3 |          0 |          2 |         -1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Home\presentation\widgets\user_info_row.dart                                  | Dart     |         13 |          0 |          0 |         13 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\PostReport\data\post_report_imp.dart                                          | Dart     |        -14 |          0 |         -5 |        -19 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\PostReport\presentation\manager\post_report\post_report_cubit.dart            | Dart     |          1 |          0 |          0 |          1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\PostReport\presentation\manager\post_report\post_report_state.dart            | Dart     |          3 |          0 |          0 |          3 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\PostReport\presentation\post_report.dart                                      | Dart     |          1 |          0 |          0 |          1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\PostReport\presentation\widgets\radio_form.dart                               | Dart     |          1 |          0 |          0 |          1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\Profile.dart                                             | Dart     |         -2 |          0 |          0 |         -2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\manager\Profile_info\UserBotton\user_botton_cubit.dart   | Dart     |        -13 |         -2 |         -2 |        -17 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\manager\Profile_info\UserField\user_field_cubit.dart     | Dart     |        -16 |         -2 |          5 |        -13 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\manager\Profile_info\UserField\user_field_state.dart     | Dart     |          9 |          0 |          3 |         12 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\manager\emaergancy_contacts\contacts\contacts_cubit.dart | Dart     |          0 |          0 |          1 |          1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\manager\toggles\toggles_cubit.dart                       | Dart     |         27 |          0 |          4 |         31 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\manager\toggles\toggles_state.dart                       | Dart     |         22 |          0 |          9 |         31 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\profile_Contact.dart                                     | Dart     |          1 |          0 |          0 |          1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\profile_information.dart                                 | Dart     |          0 |          1 |          0 |          1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\userContact.dart                                         | Dart     |          5 |          0 |          0 |          5 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets\Avatar.dart                                      | Dart     |         16 |          0 |         -1 |         15 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets\Logout.dart                                      | Dart     |          7 |          0 |         -1 |          6 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets\avatar_image.dart                                | Dart     |          2 |          0 |          0 |          2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets\eContacts_row.dart                               | Dart     |          2 |          0 |          0 |          2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets\edit_profile_information_row.dart                | Dart     |         -1 |          0 |          0 |         -1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets\first_container.dart                             | Dart     |          2 |          0 |          0 |          2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets\language_row.dart                                | Dart     |          2 |          0 |          0 |          2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets\notifications_row.dart                           | Dart     |        -28 |          0 |         -3 |        -31 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets\privacy_toggle.dart                              | Dart     |         48 |          0 |          3 |         51 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets\profile_body.dart                                | Dart     |         -1 |          0 |          0 |         -1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets\radio_box.dart                                   | Dart     |          3 |          0 |          0 |          3 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets\security_row.dart                                | Dart     |          3 |          0 |          0 |          3 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets\theme_row.dart                                   | Dart     |          1 |          0 |          0 |          1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets\toggle.dart                                      | Dart     |        -30 |          0 |         -4 |        -34 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets\upper_section.dart                               | Dart     |          3 |          0 |          0 |          3 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_Contacts\Item_widget.dart                        | Dart     |         11 |          0 |          0 |         11 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_Contacts\Profile_contact_body.dart               | Dart     |          7 |          0 |          1 |          8 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_Contacts\Search_users.dart                       | Dart     |          3 |          0 |          0 |          3 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_Contacts\User_Contact_body.dart                  | Dart     |          1 |          0 |          0 |          1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_Contacts\add_user_contacts.dart                  | Dart     |          1 |          0 |          1 |          2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_Contacts\contact_profile_info.dart               | Dart     |         97 |          0 |          0 |         97 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_Contacts\contact_profile_photo.dart              | Dart     |          2 |          0 |          0 |          2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_Contacts\floating_botton.dart                    | Dart     |          1 |          0 |          0 |          1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_Contacts\search_dialog.dart                      | Dart     |          2 |          0 |          0 |          2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_Contacts\search_model.dart                       | Dart     |          2 |          0 |          0 |          2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_information\ChronicDiseases_update_button.dart   | Dart     |          1 |          0 |          1 |          2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_information\Chronic_Diseases_field.dart          | Dart     |         -1 |          0 |          0 |         -1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_information\EmailText.dart                       | Dart     |        -22 |          0 |         -4 |        -26 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_information\FactoryNumber_field.dart             | Dart     |       -104 |         -2 |        -10 |       -116 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_information\FactoryNumber_update_botton.dart     | Dart     |        -31 |         -2 |         -6 |        -39 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_information\NationalId_field.dart                | Dart     |         -1 |          0 |          0 |         -1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_information\NationalId_update_botton.dart        | Dart     |          1 |          0 |          1 |          2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_information\address_field.dart                   | Dart     |         -2 |          0 |          0 |         -2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_information\address_update_botton.dart           | Dart     |          1 |         -1 |          0 |          0 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_information\blood_type.dart                      | Dart     |         -2 |          0 |          1 |         -1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_information\first_container_info.dart            | Dart     |         -4 |          0 |          0 |         -4 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_information\nick_name_field.dart                 | Dart     |         -3 |          0 |          0 |         -3 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_information\nickname_update_botton.dart          | Dart     |          0 |          0 |          1 |          1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_information\second_container_info.dart           | Dart     |         -2 |          0 |          0 |         -2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_information\username_field.dart                  | Dart     |         -2 |          0 |          0 |         -2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\Presentation\widgets_information\username_update_button.dart          | Dart     |         -9 |          0 |          0 |         -9 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Profile\data\profileImpl.dart                                                 | Dart     |        175 |        -31 |        -11 |        133 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\Splash\widgets\splashViewBody.dart                                            | Dart     |         -1 |          0 |          1 |          0 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\auth\data\authImp.dart                                                        | Dart     |         48 |          6 |          7 |         61 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\auth\presentation\LoginScreen.dart                                            | Dart     |         -7 |          0 |          1 |         -6 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\auth\presentation\RegisterScreen.dart                                         | Dart     |          3 |          0 |          0 |          3 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\auth\presentation\manager\authCubit.dart                                      | Dart     |        -21 |         -5 |         -8 |        -34 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\auth\presentation\manager\authStates.dart                                     | Dart     |         -1 |          0 |         -2 |         -3 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\auth\presentation\manager\forget_password\forget_passowrd_cubit.dart          | Dart     |          1 |          0 |          1 |          2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\auth\presentation\widgets\ChatBubbleSend.dart                                 | Dart     |          1 |          0 |          0 |          1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\auth\presentation\widgets\GoogleButton.dart                                   | Dart     |         -3 |          1 |          0 |         -2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\auth\presentation\widgets\Login_column.dart                                   | Dart     |         -2 |          0 |          0 |         -2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\auth\presentation\widgets\Register_form.dart                                  | Dart     |         14 |          2 |          1 |         17 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\auth\presentation\widgets\Sign_in_form.dart                                   | Dart     |          0 |          1 |          0 |          1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\auth\presentation\widgets\Social_Auth.dart                                    | Dart     |        -28 |          0 |         -3 |        -31 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\auth\presentation\widgets\appName.dart                                        | Dart     |        -18 |          0 |         -3 |        -21 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\auth\presentation\widgets\email_textfield.dart                                | Dart     |         -5 |         -1 |         -1 |         -7 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\auth\presentation\widgets\username_field.dart                                 | Dart     |         41 |          2 |          7 |         50 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\chat\data\chatImp.dart                                                        | Dart     |         40 |          4 |         10 |         54 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\chat\presentation\ChatPage.dart                                               | Dart     |         14 |          0 |         -2 |         12 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\chat\presentation\manager\chatCuibt.dart                                      | Dart     |        -24 |         89 |         18 |         83 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\chat\presentation\manager\chatStates.dart                                     | Dart     |         -2 |          0 |          0 |         -2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\chat\presentation\widgets\chat_list_view.dart                                 | Dart     |         -1 |          0 |         -1 |         -2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\chat\presentation\widgets\delete_chat.dart                                    | Dart     |          2 |          0 |          0 |          2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\dangerMap\data\danger_map_imp.dart                                            | Dart     |        167 |          0 |         17 |        184 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\dangerMap\presentation\danger_map.dart                                        | Dart     |         87 |          0 |          3 |         90 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\dangerMap\presentation\manager\danger_map\danger_map_cubit.dart               | Dart     |         26 |          0 |          4 |         30 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\dangerMap\presentation\manager\danger_map\danger_map_state.dart               | Dart     |         13 |          0 |          6 |         19 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\findContact\data\find_contact_imp.dart                                        | Dart     |        -38 |        -11 |         -8 |        -57 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\findContact\presentation\Location_on_map.dart                                 | Dart     |         -1 |          0 |          0 |         -1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\findContact\presentation\contacts_location.dart                               | Dart     |          9 |          0 |         -1 |          8 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\findContact\presentation\manager\contact_location\contact_location_cubit.dart | Dart     |         -9 |          0 |          0 |         -9 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\findContact\presentation\manager\contact_location\contact_location_state.dart | Dart     |         -3 |          0 |          0 |         -3 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\findContact\presentation\widgets\app_bar_data.dart                            | Dart     |          7 |          0 |          0 |          7 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\findContact\presentation\widgets\app_bar_image.dart                           | Dart     |          3 |          0 |          0 |          3 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\findContact\presentation\widgets\contact_location_model.dart                  | Dart     |          5 |          0 |          0 |          5 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\findContact\presentation\widgets\contacts_list_view.dart                      | Dart     |          1 |          0 |          1 |          2 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\findContact\presentation\widgets\live_location_bar.dart                       | Dart     |          6 |          0 |          0 |          6 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\findContact\presentation\widgets\location_list_body.dart                      | Dart     |         10 |          0 |          0 |         10 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\maps\presentation\manager\Searchdir\location_Cubit.dart                       | Dart     |         -1 |          0 |          0 |         -1 |
+| d:\For Studing\Flutter\helping_hands\lib\Features\maps\presentation\widgets\mapBody.dart                                        | Dart     |         17 |          0 |          0 |         17 |
+| d:\For Studing\Flutter\helping_hands\lib\core\GeneralImp\accidant_detect.dart                                                   | Dart     |        100 |          8 |         13 |        121 |
+| d:\For Studing\Flutter\helping_hands\lib\core\GeneralImp\back_gound_services.dart                                               | Dart     |         26 |          5 |         12 |         43 |
+| d:\For Studing\Flutter\helping_hands\lib\core\GeneralImp\notifications_controller.dart                                          | Dart     |        298 |         26 |         19 |        343 |
+| d:\For Studing\Flutter\helping_hands\lib\core\GeneralImp\notifications_util.dart                                                | Dart     |      1,335 |         82 |        158 |      1,575 |
+| d:\For Studing\Flutter\helping_hands\lib\core\utils\Location_last_update.dart                                                   | Dart     |          1 |          0 |          1 |          2 |
+| d:\For Studing\Flutter\helping_hands\lib\core\utils\api.dart                                                                    | Dart     |         38 |          2 |          4 |         44 |
+| d:\For Studing\Flutter\helping_hands\lib\core\utils\theme.dart                                                                  | Dart     |         -8 |         28 |         17 |         37 |
+| d:\For Studing\Flutter\helping_hands\lib\core\widgets\ShowSnackBar.dart                                                         | Dart     |          5 |          0 |          0 |          5 |
+| d:\For Studing\Flutter\helping_hands\lib\firebase_options.dart                                                                  | Dart     |        -66 |        -12 |         -6 |        -84 |
+| d:\For Studing\Flutter\helping_hands\lib\generated\intl\messages_ar.dart                                                        | Dart     |         45 |          0 |          0 |         45 |
+| d:\For Studing\Flutter\helping_hands\lib\generated\intl\messages_en.dart                                                        | Dart     |         53 |          0 |          0 |         53 |
+| d:\For Studing\Flutter\helping_hands\lib\generated\l10n.dart                                                                    | Dart     |        288 |         36 |         36 |        360 |
+| d:\For Studing\Flutter\helping_hands\lib\l10n\intl_ar.arb                                                                       | JSON     |         35 |          0 |          2 |         37 |
+| d:\For Studing\Flutter\helping_hands\lib\l10n\intl_en.arb                                                                       | JSON     |         36 |          0 |          3 |         39 |
+| d:\For Studing\Flutter\helping_hands\lib\main.dart                                                                              | Dart     |         27 |          2 |          3 |         32 |
+| d:\For Studing\Flutter\helping_hands\lib\material_app.dart                                                                      | Dart     |          0 |         -1 |          0 |         -1 |
+| d:\For Studing\Flutter\helping_hands\linux\flutter\generated_plugin_registrant.cc                                               | C++      |          4 |          0 |          0 |          4 |
+| d:\For Studing\Flutter\helping_hands\macos\Flutter\GeneratedPluginRegistrant.swift                                              | Swift    |         -6 |          0 |          0 |         -6 |
+| d:\For Studing\Flutter\helping_hands\pubspec.yaml                                                                               | YAML     |          2 |          0 |          0 |          2 |
+| d:\For Studing\Flutter\helping_hands\windows\flutter\generated_plugin_registrant.cc                                             | C++      |         -9 |          0 |          0 |         -9 |
+| Total                                                                                                                           |          |      3,103 |        249 |        338 |      3,690 |
++---------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
