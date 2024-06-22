@@ -4,7 +4,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 class MapImp {
   GoogleMapsPlaces placesApiClient =
-      GoogleMapsPlaces(apiKey: 'AIzaSyBwWoHyvO4FHdsmooJFSOC2TwdzWOUO5Bc');
+      GoogleMapsPlaces(apiKey: 'apiKey');
   late Position _currentPosition;
 
   getCurrentLocation(GoogleMapController googleMapController) async {
