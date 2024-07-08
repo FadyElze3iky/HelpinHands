@@ -55,7 +55,7 @@ This project has been a labor of love, combining Flutter development with some c
 ---
 
 ## Video Demo
-- [![Watch the video]([https://github.com/yourusername/yourrepo/blob/main/assets/video-thumbnail.png](https://github.com/FadyElze3iky/HelpinHands/blob/main/assets/images/HW.png?raw=true))]([https://www.linkedin.com/video-link](https://www.linkedin.com/feed/update/urn:li:activity:7215677289273933824/))
+- [![Watch the video]((https://github.com/FadyElze3iky/HelpinHands/blob/main/assets/images/HW.png?raw=true))](https://www.linkedin.com/feed/update/urn:li:activity:7215677289273933824/)
 
 By implementing Helping Hands, we aim to reduce the frequency of accidents and injuries on the roads and provide timely assistance to those in need. Join us in creating a safer and more resilient transportation ecosystem.
 
