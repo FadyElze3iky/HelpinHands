@@ -4,13 +4,44 @@ In today's fast-paced world, road safety is a critical concern. The "Helping Han
 
 ## Features
 
-- **Accident Detection**: Automatically detects accidents using sensors and alerts nearby users within a 3 km radius.
-- **Emergency Alerts**: Sends live location updates to emergency contacts specified by the user.
-- **Map Integration**: Allows users to navigate using Google Maps while keeping the application running in the background.
-- **First Aid Assistance**: Includes a machine learning-based chatbot that provides first aid information to accident victims.
-- **User Accounts**: Enables users to store health information and other details for emergency responders.
-- **Hazard Analysis**: Utilizes the K-Means algorithm to analyze accident data and identify road hazard locations.
+What's Helping Hands All About?
 
+🔑 Login & Registration:
+
+Simple and secure login.
+Easy password recovery and a smooth sign-in process.
+
+🏠 Home Screen:
+
+Real-time accident alerts within 4 km.
+View accident details, report issues, and see locations on a map.
+
+🔍 Search & Contacts:
+
+Search for users by username, email, or national ID.
+Manage your emergency contacts with ease.
+
+🗺️ Danger Map:
+
+See accident clusters with K-means algorithm.
+Get detailed info on accident locations.
+
+🤖 Chatbot:
+
+A First Aid chatbot built with Keras.
+Supports English and Arabic, with text-to-audio responses.
+
+👤 Profile Management:
+
+Update your profile, manage privacy, and edit user info.
+Easily add or remove emergency contacts.
+
+🔔 Background Services:
+
+Accident detection using your phone's sensors.
+Automatic location sharing if an accident is detected.
+Notifications for nearby accidents and shared locations.
+This project has been a labor of love, combining Flutter development with some cool machine-learning tech. Check out the demo video to see Helping Hands in action!
 ---
 
 ## Important
@@ -22,6 +53,9 @@ In today's fast-paced world, road safety is a critical concern. The "Helping Han
 ### 📫 UI
 - [Figma](https://www.figma.com/design/vFSBU5F8oW7GcIqr0Ulp2f/Halping-Hands-(Copy)?t=olHhby8Nys9tqpCE-1)
 ---
+
+## Video Demo
+- [![Watch the video]([https://github.com/yourusername/yourrepo/blob/main/assets/video-thumbnail.png](https://github.com/FadyElze3iky/HelpinHands/blob/main/assets/images/HW.png?raw=true))]([https://www.linkedin.com/video-link](https://www.linkedin.com/feed/update/urn:li:activity:7215677289273933824/))
 
 By implementing Helping Hands, we aim to reduce the frequency of accidents and injuries on the roads and provide timely assistance to those in need. Join us in creating a safer and more resilient transportation ecosystem.
 
